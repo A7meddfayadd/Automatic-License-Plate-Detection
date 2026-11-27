@@ -155,18 +155,18 @@ Reproducibility: one seed (42), one frozen split file, and one command per
 result. `python -m src.evaluate` rewrites the baseline table, CSV, log rows and
 figure deterministically. The test split is read by no Week-9/10 command.
 
-## Team roles (fill in names)
+## Team roles 
 
 Teams of six; for teams of five, merge the Tech Lead and Data/Baseline roles.
 
 | # | Role | Name | Work package (Weeks 9-10) |
 |---|---|---|---|
-| 1 | Tech Lead | TBD | problem framing, repository, config, integration, review |
-| 2 | Data & Baseline Engineer | TBD | loader, duplicate audit, split, metrics, both baselines |
-| 3 | Enhancement Engineer | TBD | histograms, contrast, resolution/gray-level study |
-| 4 | Restoration & Frequency Engineer | TBD | noise model analysis, spectra, illumination study |
-| 5 | Segmentation Engineer | TBD | criteria audit, baseline/threshold review |
-| 6 | Morphology & Evaluation Engineer | TBD | failure-case review, evaluation plan, later demo |
+| 1 ahmed | Tech Lead | TBD | problem framing, repository, config, integration, review |
+| 2 jooks | Data & Baseline Engineer | TBD | loader, duplicate audit, split, metrics, both baselines |
+| 3 hannen | Enhancement Engineer | TBD | histograms, contrast, resolution/gray-level study |
+| 4 judy | Restoration & Frequency Engineer | TBD | noise model analysis, spectra, illumination study |
+| 5 malak | Segmentation Engineer | TBD | criteria audit, baseline/threshold review |
+| 6 habiba | Morphology & Evaluation Engineer | TBD | failure-case review, evaluation plan, later demo |
 
 Every member still owes at least two NumPy implementations and one experiment,
 as required by the specification. Replace `TBD` before the Week-14 submission.
@@ -195,10 +195,7 @@ as required by the specification. Replace `TBD` before the Week-14 submission.
 - **Week 14:** tag `v1.0`, report PDF and slides in `report/`, live demo,
   individual defense.
 
-## Licence, ethics and AI assistance
 
-Dataset CC0 1.0; cite the Kaggle and DatasetNinja sources. License plates are
-personal data even when the dataset is public: this project is an academic
 localization exercise, not a surveillance or identification system, and the
 limitations must be stated in the report.
 
