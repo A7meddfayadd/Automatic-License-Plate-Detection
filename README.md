@@ -194,11 +194,3 @@ as required by the specification. Replace `TBD` before the Week-14 submission.
   frozen results, report draft.
 - **Week 14:** tag `v1.0`, report PDF and slides in `report/`, live demo,
   individual defense.
-
-
-localization exercise, not a surveillance or identification system, and the
-limitations must be stated in the report.
-
-An AI coding assistant was used to scaffold the repository and notebook. Every
-line must be reviewed, understood and explained by the team in the defense;
-this usage must be disclosed in the report, as required by the specification.
