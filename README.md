@@ -163,7 +163,7 @@ Teams of six; for teams of five, merge the Tech Lead and Data/Baseline roles.
 |---|---|---|---|
 | 1 ahmed | Tech Lead | TBD | problem framing, repository, config, integration, review |
 | 2 jooks | Data & Baseline Engineer | TBD | loader, duplicate audit, split, metrics, both baselines |
-| 3 hannen | Enhancement Engineer | TBD | histograms, contrast, resolution/gray-level study |
+| 3 haneen | Enhancement Engineer | TBD | histograms, contrast, resolution/gray-level study |
 | 4 judy | Restoration & Frequency Engineer | TBD | noise model analysis, spectra, illumination study |
 | 5 malak | Segmentation Engineer | TBD | criteria audit, baseline/threshold review |
 | 6 habiba | Morphology & Evaluation Engineer | TBD | failure-case review, evaluation plan, later demo |
