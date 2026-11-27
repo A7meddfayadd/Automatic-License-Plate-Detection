@@ -1,0 +1,3 @@
+run_id,date,author,pipeline,stage,method,parameters,seed,processing_time_s,metric_name,metric_value,notes
+W10-BASE-TRIVIAL-DEV,2026-11-27T03:54:52+02:00,Member 2 (Data & Baseline Engineer),baselines,baseline,fixed_threshold,threshold=127; min_area=100; selection=largest_component,42,0.322,mean_bbox_iou_dev,0.0579,dev split; 209 unique scenes; hit@0.5=0.033; duplicate groups of 433 files kept together
+W10-BASE-SIMPLE-DEV,2026-11-27T03:54:52+02:00,Member 2 (Data & Baseline Engineer),baselines,baseline,otsu+opening,otsu; opening=3x3; min_area=100; selection=largest_component,42,0.220,mean_bbox_iou_dev,0.0523,dev split; 209 unique scenes; hit@0.5=0.029; duplicate groups of 433 files kept together
