@@ -175,12 +175,12 @@ as required by the specification. Replace `TBD` before the Week-14 submission.
 
 | Member | Work package | Files | Experiments run |
 |---|---|---|---|
-| TBD | Tech Lead | README, configs, review | split/baseline reproduction |
-| TBD | Data & Baseline | data.py, metrics.py, evaluate.py, tests | baseline dev run |
-| TBD | Enhancement | notebook sections 3, 6, 7 | resolution/gray-level study |
-| TBD | Restoration & Frequency | notebook sections 4-6 | noise/spectrum study |
-| TBD | Segmentation | analysis review | criteria audit |
-| TBD | Morphology & Evaluation | evaluation review | baseline failure review |
+| ahmed | Tech Lead | README, configs, review | split/baseline reproduction |
+| jooks | Data & Baseline | data.py, metrics.py, evaluate.py, tests | baseline dev run |
+| haneen | Enhancement | notebook sections 3, 6, 7 | resolution/gray-level study |
+| judy | Restoration & Frequency | notebook sections 4-6 | noise/spectrum study |
+| malak | Segmentation | analysis review | criteria audit |
+| habiba | Morphology & Evaluation | evaluation review | baseline failure review |
 
 ## Roadmap
 
