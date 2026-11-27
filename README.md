@@ -161,12 +161,12 @@ Teams of six; for teams of five, merge the Tech Lead and Data/Baseline roles.
 
 | # | Role | Name | Work package (Weeks 9-10) |
 |---|---|---|---|
-| 1 ahmed | Tech Lead | TBD | problem framing, repository, config, integration, review |
-| 2 jooks | Data & Baseline Engineer | TBD | loader, duplicate audit, split, metrics, both baselines |
-| 3 haneen | Enhancement Engineer | TBD | histograms, contrast, resolution/gray-level study |
-| 4 judy | Restoration & Frequency Engineer | TBD | noise model analysis, spectra, illumination study |
-| 5 malak | Segmentation Engineer | TBD | criteria audit, baseline/threshold review |
-| 6 habiba | Morphology & Evaluation Engineer | TBD | failure-case review, evaluation plan, later demo |
+| 1  | Tech Lead | ahmed | problem framing, repository, config, integration, review |
+| 2  | Data & Baseline Engineer | jooks | loader, duplicate audit, split, metrics, both baselines |
+| 3  | Enhancement Engineer | haneen | histograms, contrast, resolution/gray-level study |
+| 4  | Restoration & Frequency Engineer | judy | noise model analysis, spectra, illumination study |
+| 5  | Segmentation Engineer | malak | criteria audit, baseline/threshold review |
+| 6  | Morphology & Evaluation Engineer | habiba | failure-case review, evaluation plan, later demo |
 
 Every member still owes at least two NumPy implementations and one experiment,
 as required by the specification. Replace `TBD` before the Week-14 submission.
